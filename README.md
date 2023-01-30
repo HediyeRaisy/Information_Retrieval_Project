@@ -1,1 +1,2 @@
 # Information_Retrieval_Project
+This is a project for Introduction for Information Retrieval Project. We crawl the html page from www.alluniversity.info/world-top-100/ and get the info of 100 top universities and save them as document. After cleaning the documents, we draw tf-idf matrix for each term. We also define function for calculate similarity with cosine for the quaery which user enters. The function calculate the similarities for each documents and show the top k of them in the results.
